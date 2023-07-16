@@ -42,3 +42,7 @@ Complete the following steps:
  * You will need to modify the example gauge code to account for values ranging from 0 through 9.
  * Update the chart whenever a new sample is selected.
 ![image](https://github.com/dclaxto1/Javascript-Belly-Button-Challenge/assets/128431134/6e5772f9-609e-4809-a436-b669ac2a3b18)
+<br />
+
+# View interactive page here:
+https://dclaxto1.github.io/Javascript-Belly-Button-Challenge/
