@@ -11,7 +11,7 @@ Complete the following steps:
  2. Create a horizontal bar chart with a dropdown menu to display the top 10 OTUs found in that individual.
     * Use `sample_values` as the values for the bar chart.
     * Use `otu_ids` as the labels for the bar chart.
-    * Use `otu_labels` as the hovertext for the chart.
+    * Use `otu_labels` as the hovertext for the chart.   
     
   ![image](https://github.com/dclaxto1/Javascript-Belly-Button-Challenge/assets/128431134/ef16cc58-3d0c-4e16-9c63-6eaf4f921a7a)  
 
